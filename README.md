@@ -6,3 +6,4 @@
 3. --ship 	进去的lib64 版本是gcc-4.8.1
 4. 编译时系统的GLICBC必须是12版本高低都不行	（因为集群是12)
 5. dmlc yarn 	目录先编译, 再在根目录编译xgboost make config=config.mk
+6. yarn 和 hdfs	的测试例子在demo/distributed-training
